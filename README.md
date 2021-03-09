@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 <div align="left">
  
 ## Olá pessoal 👋.
-Gosto de aprender coisas novas!
 
  :blue_book:  &nbsp; Sou formado em **Analise e Desenvolvimento de Sistemas na FATEC** :computer:
  <br/> :purple_heart: &nbsp; Buscando aprender novas tecnologias
  <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML, JS, Jquery, ReactJS, Asp.net, PHP, Mysql e SqlServer.
- <br/> 💬  &nbsp; Sobre minha pessoa: Gosto de desenvolvimento e desafios, tereré e musica.
+ <br/> 😄 &nbsp; Sobre minha pessoa: Gosto de desenvolvimento e de desafios, um café sempre cai bem, um tereré sem é bom e sem musica eu não fico.
  <br/> :email: &nbsp; Entre em contato comigo: 
  
  <a href="https://www.linkedin.com/in/jhowarenas/" alt="Linkedin">
