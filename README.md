@@ -13,16 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<div align="left">
 # Jonathan Arenas
 Repositório de projetos pessoais
 
 ## Olá pessoal 👋.
 Gosto de aprender coisas novas!
-Sou estudante de Engenharia de Software. :computer:
 
- :blue_book:  &nbsp; Sou formado em **Analise e Desenvolvimento de Sistemas na FATEC**
+ :blue_book:  &nbsp; Sou formado em **Analise e Desenvolvimento de Sistemas na FATEC** :computer:
  <br/> :purple_heart: &nbsp; Buscando aprender novas tecnologias
  <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML, JS, Jquery, Asp.net, PHP, Mysql e SqlServer
  <br/> :computer: &nbsp; Minha stack: ReactJS
- <br/> 💬  &nbsp; Sobre mim: Gosto de desenvolvimento e desafios, tereré e musica.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JonathanArenas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jonathan-torres-ar%C3%AAnas-246a41138/)](https://www.linkedin.com/in/jonathan-torres-ar%C3%AAnas-246a41138/) 
+ <br/> 💬  &nbsp; Sobre minha pessoa: Gosto de desenvolvimento e desafios, tereré e musica.
+ <br/> :email: &nbsp; Entre em contato comigo: 
+ 
+ <a href="https://www.linkedin.com/in/jhowarenas/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jhowarenas/" /></a>
+
+  <a href="https://api.whatsapp.com/send?phone=5514981572661" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514981572661"/></a>
+</div>
