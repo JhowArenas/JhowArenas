@@ -17,16 +17,13 @@ Here are some ideas to get you started:
 <img src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <div align="left">
-# Jonathan Arenas
-Repositório de projetos pessoais
-
+ 
 ## Olá pessoal 👋.
 Gosto de aprender coisas novas!
 
  :blue_book:  &nbsp; Sou formado em **Analise e Desenvolvimento de Sistemas na FATEC** :computer:
  <br/> :purple_heart: &nbsp; Buscando aprender novas tecnologias
- <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML, JS, Jquery, Asp.net, PHP, Mysql e SqlServer
- <br/> :computer: &nbsp; Minha stack: ReactJS
+ <br/> :blush: &nbsp; Posso te ajudar com CSS, HTML, JS, Jquery, ReactJS, Asp.net, PHP, Mysql e SqlServer.
  <br/> 💬  &nbsp; Sobre minha pessoa: Gosto de desenvolvimento e desafios, tereré e musica.
  <br/> :email: &nbsp; Entre em contato comigo: 
  
