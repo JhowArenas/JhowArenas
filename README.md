@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <div align="left">
 # Jonathan Arenas
