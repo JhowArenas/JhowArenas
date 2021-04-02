@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+
+
  # Bem vindo ao meu perfil 👋.
-## Espero que as informações a baixo ajudem a me conhecer um pouco mais! 😄
+  Espero que as informações a baixo ajudem a me conhecer um pouco mais! 😄
+
+</div>
+
 
 <img src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
