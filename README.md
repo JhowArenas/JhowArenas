@@ -28,14 +28,14 @@ Here are some ideas to get you started:
   <br/><br/> 
   :blush: &nbsp; **Posso te ajudar com:** CSS, HTML, JS, Jquery, ReactJS, Asp.net, PHP, Mysql e SqlServer.
   <br/><br/>
-  😄 &nbsp; **Sobre minha pessoa:** Gosto de desenvolvimento e de desafios, um cafézinho nunca é de mais, um tereré cai muito bem e sem musica eu não fico! auhah
+  😄 &nbsp; **Sobre minha pessoa:** Gosto de desenvolvimento e de desafios, um cafézinho nunca é de mais, um tereré cai muito bem e sem musica eu não fico! 😄
  
 </div>
 
 <br/><br/>
 
 <div align="center">
-  :email: &nbsp; **Entre em contato comigo:**
+  💬 &nbsp; **Entre em contato comigo através dos seguintes meios:**
   <br/>
   <a target="_blank" href="https://www.linkedin.com/in/jhowarenas/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jhowarenas/" />
