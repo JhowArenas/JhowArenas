@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 
- # Bem vindo ao meu perfil 👋.
+ # Bem vindo ao meu perfil 👋
   Espero que as informações a baixo ajudem a me conhecer um pouco mais! 😄
 
 </div>
