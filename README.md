@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-  ## Olá pessoal 👋.
+<div align="center">  ## Olá pessoal 👋. </div>
 
 
 <img src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br/><br/>
 
 <div align="center">
-  💬 &nbsp; **Entre em contato comigo através dos seguintes meios:**
+  💬 &nbsp; **Entre em contato comigo** através dos seguintes meios:
   <br/>
   <a target="_blank" href="https://www.linkedin.com/in/jhowarenas/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jhowarenas/" />
