@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-  <br/> :blue_book:  &nbsp; Formado em **Analise e Desenvolvimento de Sistemas na FATEC** :computer:
+  <br/> :blue_book:  &nbsp; Formado em **Analise e Desenvolvimento de Sistemas na FATEC** &nbsp; :computer:
   <br/><br/> 
   :purple_heart: &nbsp; **Buscando aprender novas tecnologias**
   <br/><br/> 
   :blush: &nbsp; **Posso te ajudar com:** CSS, HTML, JS, Jquery, ReactJS, Asp.net, PHP, Mysql e SqlServer.
   <br/><br/>
-  😄 &nbsp; **Sobre minha pessoa:** Gosto de desenvolvimento e de desafios, um cafézinho nunca é de mais, um tereré cai muito bem e sem musica eu não fico! 😄
+  😄 &nbsp; **Sobre minha pessoa:** Gosto de desenvolvimento e de desafios, um cafézinho nunca é de mais, um tereré cai muito bem e sem musica eu não fico! &nbsp; 😄
  
 </div>
 
