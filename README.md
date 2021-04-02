@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   :email: &nbsp; Entre em contato comigo: 
+  <br/>
   <a target="_blank" href="https://www.linkedin.com/in/jhowarenas/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jhowarenas/" />
   </a>
