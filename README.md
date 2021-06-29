@@ -66,7 +66,7 @@ Work: https://www.corebiz.ag/pt/
 
 <br/>
 
-<img src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="420px" align="right" alt="Computador iuriCode">
+<img src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="410px" align="right" alt="Computador iuriCode">
 <div align="left">
  
   ### Formação &nbsp; :blue_book:
