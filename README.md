@@ -26,10 +26,24 @@ Here are some ideas to get you started:
 </div>
 <br/>
 <div align="center">
- 
+   <a href="https://github.com/goharajunior">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=jhowarenas.jhowarenas" alt="Visitas">
+  </a>
   <a target="_blank" href="https://www.linkedin.com/in/jhowarenas/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jhowarenas/" />
   </a>
+
+<!-- 
+  &nbsp;
+  <a href="https://www.linkedin.com/in/goharajunior/">
+    <img src="https://img.shields.io/badge/-Gohara Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goharajunior/">
+  </a>
+  &nbsp;
+  <a href="mailto:lucasgdbittencourt@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goharajunior@gmail.com">
+  </a>
+   &nbsp; -->
+ 
 
 </div>
 <br/><br/>
