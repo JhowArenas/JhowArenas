@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 <br/>
 
 ### Trajetória profissional
-<p>
 Iniciei minha carreira trabalhando para o Grupo MF Rural como Webmaster e meu maior contato foi no desenvolvimento e manutenção de aplicações Asp.NET, porém tive muito contato com AngularJS, PHP, JQuery, Gulp e Wordpress dentro dos sites.<br/>
 Estudei e aprimorei minhas habilidades de SEO, apliquei reparos se erros encontrados no Google Search Console, além do uso intensivo de ferramentas de auditoria (PageSpeed, Audits e Web.dev) para uma melhor performance e posicionamento no Google
 
@@ -62,7 +61,6 @@ Posteriormente assumi a liderança da equipe de desenvolvedores. Corrigi process
 Atualmente trabalho na Corebiz como desenvolvedor Front-end Pleno II.
 
 Work: https://www.corebiz.ag/pt/
-</p>
 
 <br/>
 
@@ -90,7 +88,7 @@ Work: https://www.corebiz.ag/pt/
    - Optimization Tools: Google Search Console, Google Audits (Web.dev, Lighthouse).
 
   ### Sobre minha pessoa &nbsp; 😄 
-  **Gosto de desenvolvimento e de desafios, um cafézinho nunca é de mais, um tereré cai muito bem e sem musica eu não fico!** &nbsp; 😄
+  Gosto de desenvolvimento e de desafios, um cafézinho nunca é de mais, um tereré cai muito bem e sem musica eu não fico!
  
 </div>
 
