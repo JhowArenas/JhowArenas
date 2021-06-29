@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-<div align="center" style="background-color:#fff; border: 1px solid red">
+<div align="center">
   
   💬 &nbsp; **Entre em contato comigo através dos seguintes meios:**
   <br/><br/>
