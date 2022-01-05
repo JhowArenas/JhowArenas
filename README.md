@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div align="center">
  
   <a href="https://github.com/jhowarenas">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=jhowarenas.jhowarenas" alt="Visitas">
+    <img src="https://komarev.com/ghpvc/?username=jhowarenas&style=flat-square" alt="Visitas">
   </a>
   &nbsp;
   <a target="_blank" href="https://www.linkedin.com/in/jhowarenas/" alt="Linkedin">
