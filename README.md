@@ -58,7 +58,7 @@ Visando me especializar, ingressei na Agência Auaha como Desenvolvedor Front-en
 Desenvolvi um setor de criação de novos produtos e para organizar os processos da empresa com as tecnologias: Razor, Sass, Less, JQuery, Gulp, JS, ReactJS, NodeJS, Twig. <br/>
 Posteriormente assumi a liderança da equipe de desenvolvedores. Corrigi processos que eram falhos e dei início a aplicação do Scrum na empresa, além de ter trabalhado melhor a abertura dos devs para maior interação com todos os outros times.
 
-Atualmente trabalho na Corebiz como desenvolvedor Front-end Pleno II.
+Atualmente trabalho na Corebiz como desenvolvedor Front-end Pleno III.
 
 Work: https://www.corebiz.ag/pt/
 
@@ -89,7 +89,6 @@ Work: https://www.corebiz.ag/pt/
 
   ### Sobre minha pessoa &nbsp; 😄 
   Gosto de desenvolvimento e de desafios, um cafézinho nunca é de mais, um tereré cai muito bem e sem musica eu não fico!
- 
 </div>
 
 <br/>
