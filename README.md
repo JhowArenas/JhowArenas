@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <head>
-    <link rel="stylesheet" href="jhowarenas.css" />
+<link rel="stylesheet" href="jhowarenas.css" />
 </head>
 
 <body>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jhowarenas/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/jhowarenas/" target="_blank" id="#my-photo" rel="noopener noreferrer">
 <img src="https://avatars.githubusercontent.com/u/33754192?v=4" width="220" height="220" alt="My Photo">
 </a>
 
