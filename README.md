@@ -12,11 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-    
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jhowarenas/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/jhowarenas/" target="_blank" id="#my-photo" rel="noopener noreferrer">
 <img src="https://avatars.githubusercontent.com/u/33754192?v=4" width="220" height="220" alt="My Photo">
 </a>
 
@@ -103,4 +101,8 @@ Gosto de desenvolvimento e de desafios, um cafézinho nunca é de mais, um terer
 </td>
 </row>
 </table>
+<<<<<<< HEAD
 
+=======
+</body>
+>>>>>>> 83d760d5ec01b49960e1101bf0c1d7c43bdff9f2
