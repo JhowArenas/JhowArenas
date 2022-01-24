@@ -13,11 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<head>
-    <link rel="stylesheet" href="jhowarenas.css" />
-</head>
 
-<body>
     <div align="center">
 
         <a href="https://www.linkedin.com/in/jhowarenas/" id="my-photo" target="_blank" rel="noopener noreferrer">
@@ -107,4 +103,3 @@ Here are some ideas to get you started:
             </td>
         </row>
     </table>
-</body>
