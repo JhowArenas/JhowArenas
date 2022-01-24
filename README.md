@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head>
-    <link rel="stylesheet" href="jhowarenas.css" />
-</head>
 
-<body>
+    
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jhowarenas/" target="_blank" rel="noopener noreferrer">
@@ -106,4 +103,4 @@ Gosto de desenvolvimento e de desafios, um cafézinho nunca é de mais, um terer
 </td>
 </row>
 </table>
-</body>
+
