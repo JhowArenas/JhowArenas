@@ -56,7 +56,9 @@ Visando me especializar, ingressei na Agência Auaha como Desenvolvedor Front-en
 Desenvolvi um setor de criação de novos produtos e para organizar os processos da empresa com as tecnologias: Razor, Sass, Less, JQuery, Gulp, JS, ReactJS, NodeJS, Twig. <br />
 Posteriormente assumi a liderança da equipe de desenvolvedores. Corrigi processos que eram falhos e dei início a aplicação do Scrum na empresa, além de ter trabalhado melhor a abertura dos devs para maior interação com todos os outros times.
 
-Atualmente trabalho na Corebiz como desenvolvedor Front-end Pleno III.
+Buscando expandir meus horizontes, ingressei na Corebiz como Front-end Pleno II, encarando um novo desafio de trabalhar para um cliente da Argentina sem saber nada de espanhol. Porém com pouco tempo, muita ajuda de meus colegas de equipe e muita vivencia com o idioma, não só consegui expandir minha compreensão do espanhol, como comecei a criar vinculos e boas conversas com companheiros de trabalho que são argentinos.
+Lidando todos os dias com a plataforma e-commerce Vtex, sempre buscando melhorar meus conhecimentos e os sites, logo fui reconhecido e realocado de equipe para cuidar de novos clientes que tinham um nivel maior de importancia. 
+Atualmente trabalho na Corebiz e fui recentemente promovido para desenvolvedor Front-end Pleno III, atuo muito no meu dia a dia com JS e estou sempre buscando conhecer e me especializar na linguagem e seus frameworks. 
 
 Work: https://www.corebiz.ag/pt/
 
