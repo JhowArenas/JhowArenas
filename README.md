@@ -103,8 +103,5 @@ Gosto de desenvolvimento e de desafios, um cafézinho nunca é de mais, um terer
 </td>
 </row>
 </table>
-<<<<<<< HEAD
 
-=======
 </body>
->>>>>>> 83d760d5ec01b49960e1101bf0c1d7c43bdff9f2
