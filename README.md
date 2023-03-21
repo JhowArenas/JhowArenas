@@ -32,10 +32,10 @@ Espero que as informações a baixo ajudem a me conhecer um pouco mais! 😄
 <a target="_blank" href="https://www.linkedin.com/in/jhowarenas/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Jonathan Arenas-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jhowarenas/" />
 </a>
-&nbsp;
+<!-- &nbsp;
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5514981572661" alt="WhatsApp">
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514981572661" />
-</a>
+</a> -->
 &nbsp;
 <a href="mailto:jonat.arenas@hotmail.com">
 <img src="https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white&link=mailto:jonat.arenas@hotmail.com">
