@@ -71,20 +71,17 @@ Work: https://www.corebiz.ag/pt/
 - Analise e Desenvolvimento de Sistemas - FATEC &nbsp; :computer:
 
 ### Estou estudando &nbsp; :computer:
-- [Vtex IO](https://vtex.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/?text_color:#000)
-- [TypeScript](https://www.typescriptlang.org/)
+- Phyton
 
 ### Posso te ajudar com as tecnologias &nbsp; :blush:
 - CSS (Sass, Less, Css-in-JS);
 - HTML (SEO, Best Praticles, Accessibility);
-- JS (Jquery, Jquery UI, ReactJS);
+- JS (Jquery, Jquery UI, ReactJS, Typescript, NodeJS);
 - Asp.net (3.5, MVC, Razor);
 - PHP (Twig);
 - D.B. Relacionais: Mysql, Sql Server;
 - D.B. Ñ Relacionais: MongoDB;
-- Plataformas: Jet, Vtex CMS, Tray Varejo, Mercado Shops, WordPress;
+- Plataformas: Vtex, Jet, Tray Varejo, Mercado Shops, WordPress;
 - Optimization Tools: Google Search Console, Google Audits (Web.dev, Lighthouse).
 
 ### Sobre minha pessoa &nbsp; 😄
