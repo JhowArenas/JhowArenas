@@ -49,18 +49,19 @@ Espero que as informações a baixo ajudem a me conhecer um pouco mais! 😄
 <br />
 
 ### Trajetória profissional
-Iniciei minha carreira trabalhando para o Grupo MF Rural como Webmaster e meu maior contato foi no desenvolvimento e manutenção de aplicações Asp.NET, porém tive muito contato com AngularJS, PHP, JQuery, Gulp e Wordpress dentro dos sites.<br />
-Estudei e aprimorei minhas habilidades de SEO, apliquei reparos se erros encontrados no Google Search Console, além do uso intensivo de ferramentas de auditoria (PageSpeed, Audits e Web.dev) para uma melhor performance e posicionamento no Google
+I am a resilient and impact-driven Software Engineer with over 8 years of experience in architecture, solution design, problem-solving, and technical leadership. Throughout my career, I have led high-stakes engineering initiatives, mentored multidisciplinary teams, and designed systems that support mission-critical business operations on a global scale.
 
-Visando me especializar, ingressei na Agência Auaha como Desenvolvedor Front-end, implementando/corrigindo lojas nas plataformas: Tray, Vtex, JET e Mercado Shops.
-Desenvolvi um setor de criação de novos produtos e para organizar os processos da empresa com as tecnologias: Razor, Sass, Less, JQuery, Gulp, JS, ReactJS, NodeJS, Twig. <br />
-Posteriormente assumi a liderança da equipe de desenvolvedores. Corrigi processos que eram falhos e dei início a aplicação do Scrum na empresa, além de ter trabalhado melhor a abertura dos devs para maior interação com todos os outros times.
+My technical expertise is rooted in a potent combination of Node.js, React, and JavaScript/TypeScript. At the same time, my adaptability has enabled me to deliver complex projects using technologies such as ASP.NET, PHP, MySQL, SQL Server, MongoDB, and others. I thrive in environments that demand quick learning, strategic thinking, and deep technical ownership.
 
-Buscando expandir meus horizontes, ingressei na Corebiz como Front-end Pleno II, encarando um novo desafio de trabalhar para um cliente da Argentina sem saber nada de espanhol. Porém com pouco tempo, muita ajuda de meus colegas de equipe e muita vivencia com o idioma, não só consegui expandir minha compreensão do espanhol, como comecei a criar vinculos e boas conversas com companheiros de trabalho que são argentinos.
-Lidando todos os dias com a plataforma e-commerce Vtex, sempre buscando melhorar meus conhecimentos e os sites, logo fui reconhecido e realocado de equipe para cuidar de novos clientes que tinham um nivel maior de importancia. 
-Atualmente trabalho na Corebiz e fui recentemente promovido para desenvolvedor Front-end Pleno III, atuo muito no meu dia a dia com JS e estou sempre buscando conhecer e me especializar na linguagem e seus frameworks. 
+I have a proven track record of driving high-impact engineering projects, including:
+• Architecting, managing, and structuring global payment systems for Visa, such as a payment gateway, an anti-fraud engine, and multiple mission-critical services responsible for processing highly sensitive financial data worldwide.
+• Leading the engineering, planning, enablement, and development of a full TikTok Shop connector, significantly boosting company revenue and transforming the solution into a key driver for client retention and acquisition.
 
-Work: https://www.corebiz.ag/pt/
+As a hands-on leader daily, I manage and guide software engineering teams to ensure technical excellence, scalability, and continuous improvement. I am certified on the VTEX e-commerce platform and am currently pursuing Shopify certification, continually expanding my skills to stay ahead of emerging technologies and architectural best practices.
+
+Above all, I am committed to building reliable, scalable, and high-quality systems while empowering engineering teams to deliver meaningful, lasting impact.
+
+- Work: https://www.corebiz.ag/pt/
 
 <br />
 
