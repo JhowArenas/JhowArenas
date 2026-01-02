@@ -25,9 +25,9 @@ Espero que as informações a baixo ajudem a me conhecer um pouco mais! 😄
 <br />
 <div align="center">
 
-<a href="https://github.com/jhowarenas">
-<img src="https://komarev.com/ghpvc/?username=jhowarenas&style=flat-square" alt="Visitas">
-</a>
+<!-- <a href="https://github.com/jhowarenas">
+<img src="https://komarev.com/ghpvc/?username=jhowarenas&style=flat-square" alt="Visits">
+</a> -->
 &nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/jhowarenas/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Jonathan Arenas-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jhowarenas/" />
@@ -48,18 +48,14 @@ Espero que as informações a baixo ajudem a me conhecer um pouco mais! 😄
 
 <br />
 
-### Trajetória profissional
-I am a resilient and impact-driven Software Engineer with over 8 years of experience in architecture, solution design, problem-solving, and technical leadership. Throughout my career, I have led high-stakes engineering initiatives, mentored multidisciplinary teams, and designed systems that support mission-critical business operations on a global scale.
+### About
+I am a Software Engineer with over 8 years of experience building and evolving systems that operate in complex, global environments. I enjoy working closely with architecture and decision-making, taking strong ownership of solutions that need to be reliable, scalable, and aligned with real business needs.
 
-My technical expertise is rooted in a potent combination of Node.js, React, and JavaScript/TypeScript. At the same time, my adaptability has enabled me to deliver complex projects using technologies such as ASP.NET, PHP, MySQL, SQL Server, MongoDB, and others. I thrive in environments that demand quick learning, strategic thinking, and deep technical ownership.
+Over the years, I have led and shaped critical engineering initiatives, including the architecture of global payment systems for Visa. This work involved payment gateways, anti-fraud engines, and core services responsible for processing highly sensitive financial data at scale. I also led the engineering and enablement of a full TikTok Shop connector, which became a strategic revenue driver and an important asset for client retention and acquisition.
 
-I have a proven track record of driving high-impact engineering projects, including:
-• Architecting, managing, and structuring global payment systems for Visa, such as a payment gateway, an anti-fraud engine, and multiple mission-critical services responsible for processing highly sensitive financial data worldwide.
-• Leading the engineering, planning, enablement, and development of a full TikTok Shop connector, significantly boosting company revenue and transforming the solution into a key driver for client retention and acquisition.
+My main technical focus is on Node.js, React, and JavaScript/TypeScript, with solid experience across ASP.NET, PHP, MySQL, SQL Server, and MongoDB. I adapt quickly to new challenges and enjoy environments that require thoughtful architecture, continuous learning, and clear technical ownership from design to delivery.
 
-As a hands-on leader daily, I manage and guide software engineering teams to ensure technical excellence, scalability, and continuous improvement. I am certified on the VTEX e-commerce platform and am currently pursuing Shopify certification, continually expanding my skills to stay ahead of emerging technologies and architectural best practices.
-
-Above all, I am committed to building reliable, scalable, and high-quality systems while empowering engineering teams to deliver meaningful, lasting impact.
+As a Software Engineer, I stay hands-on and close to the code, while contributing to architectural decisions, system reliability, and long-term scalability. I work closely with engineering teams to raise technical standards and ensure resilient, secure systems. I am certified on the VTEX e-commerce platform and am currently pursuing Shopify certification, reinforcing my focus on modern commerce ecosystems at scale.
 
 - Work: https://www.corebiz.ag/pt/
 
