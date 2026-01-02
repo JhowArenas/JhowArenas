@@ -64,14 +64,11 @@ Actual Work: https://www.corebiz.ag/pt/
 - JS (Jquery, Jquery UI, ReactJS, Typescript, NodeJS);
 - Asp.net (3.5, MVC, Razor);
 - PHP (Twig);
-- D.B. Relacionais: Mysql, Sql Server;
-- D.B. Ñ Relacionais: MongoDB;
-- Plataformas: Vtex, Jet, Tray Varejo, Mercado Shops, WordPress;
+- Relational Databases: MySQL, SQL Server;
+- Non-Relational Databases: MongoDB;
+- Ecommerce Plataforms: Vtex, WordPress;
 - Optimization Tools: Google Search Console, Google Audits (Web.dev, Lighthouse).
 
-### Sobre minha pessoa &nbsp; 😄
-
-Gosto de desenvolvimento e de desafios, um cafézinho nunca é de mais, um tereré cai muito bem e sem musica eu não fico!
 
 </div>
 
