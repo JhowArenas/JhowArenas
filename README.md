@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## About
+### About
 
 I am a Software Engineer with over 8 years of experience building and evolving systems that operate in complex, global environments. I enjoy working closely with architecture and decision-making, taking strong ownership of solutions that need to be reliable, scalable, and aligned with real business needs.
 
@@ -53,11 +53,11 @@ Actual Work: https://www.corebiz.ag/pt/
 <img src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="400px" max-width="400px" min-width="400px" align="right" alt="Computador iuriCode">
 <div align="left">
 
-## Education
+### Education
 
 - Systems Analysis and Development – FATEC
 
-## I provide expertise in the following technologies:
+### I provide expertise in the following technologies:
 
 - CSS (Sass, Less, Css-in-JS);
 - HTML (SEO, Best Praticles, Accessibility);
