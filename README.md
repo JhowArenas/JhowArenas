@@ -71,18 +71,3 @@ Actual Work: https://www.corebiz.ag/pt/
 
 
 </div>
-
-<br />
-
-<table align='center'>
-    <row>
-        <td>
-            <img height='172' src='https://github-readme-stats.vercel.app/api?username=jhowarenas&show_icons=true&theme=dark'>
-        </td>
-        <td>
-            <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jhowarenas&layout=compact&theme=dark'>
-        </td>
-    </row>
-</table>
-
-</body>
